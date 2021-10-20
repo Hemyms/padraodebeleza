@@ -1,0 +1,38 @@
+a{
+  color:#B22222;
+  font-family:Times New Roman;
+}
+h1 {
+  color:#4b4b4b;
+  font-family:URM Chancery, cursive;
+  
+}
+p{
+  color:#8b4513;
+  font-family:Times New Roman;
+  text-align: justify;
+  
+}
+body {
+  background-color:#e4c0a8;
+}
+img, .cantodi, .cantoesq {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.cantoesq{
+  margin-left: 0px;
+
+}
+.cantodi{
+  margin-right: 0px;
+}
+#centro,p{
+  text-align: center;
+}
+#hdou:hover{
+  color: #ffd700;
+}
